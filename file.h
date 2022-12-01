@@ -4,4 +4,4 @@
 
 FILE* open_file(char text[SIZE]);
 
-void close_file(FILE *arc);
+void close_file(FIsLE *arc);
