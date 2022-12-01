@@ -10,8 +10,8 @@
 | IDE: VsCode 1.72.1                                 |
 |                                                    |
 | This repository contains file manipulation         |
-| algorithm in C	                                 |
-| 		                                             |
+| algorithm in C                                     |
+|                                                    |
 +----------------------------------------------------+
 
 ```
