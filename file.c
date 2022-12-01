@@ -8,3 +8,7 @@ FILE* open_file(char text[SIZE]){
 	}
 	return arc;
 }
+
+void close_file(FILE *arc){
+	fclose(arc);
+}
