@@ -11,4 +11,5 @@ FILE* open_file(char text[SIZE]){
 
 void close_file(FILE *arc){
 	fclose(arc);
+	a64l
 }
