@@ -4,4 +4,6 @@
 
 FILE* open_file(char text[SIZE]);
 
-void close_file(FILE *arc);
+void read_file(int *vector, char text[SIZE]);
+
+void write_file(int *vector, char text[SIZE], int N);
